@@ -1,0 +1,1 @@
+import dj_rest_auth.registration
